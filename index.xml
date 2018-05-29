@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CROSSMAR on CROSSMAR</title>
+    <link>/</link>
+    <description>Recent content in CROSSMAR on CROSSMAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>/person/yoav_lehahn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/person/yoav_lehahn/</guid>
+      <description>&lt;p&gt;Senior lecturer, University of Haifa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/person/shai_efrati/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/person/shai_efrati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/person/elad_topel/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/person/elad_topel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/person/regina_lionheart/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/person/regina_lionheart/</guid>
+      <description>&lt;p&gt;Regina graduated from the University of Washington in 2017, with a Bachelor of Science in Oceanography and a minor in Applied Calculus and Statistics. She is now a master&amp;rsquo;s student at the University of Haifa in the Cross-Disciplinary Marine Systems (CROSSMAR) lab, under the direction of Dr. Yoav Lehahn. She is studying gradients across eddies and data integration across disciplines within oceanography.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A satellite-based Lagrangian view on phytoplankton dynamics</title>
+      <link>/publication/a_satellite-based_lagrangian_view_on_phytoplankton_dynamics__lehahn_arms_2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/a_satellite-based_lagrangian_view_on_phytoplankton_dynamics__lehahn_arms_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiling of host and virus during a coccolithophore bloom provides insights into the role of viral infection in promoting carbon export</title>
+      <link>/publication/expression_profiling_of_host_and_virus/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/expression_profiling_of_host_and_virus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispersion/dilution enhances phytoplankton blooms in nutrient-limited waters</title>
+      <link>/publication/dispersion_dilution_enhances_phytoplankton_blooms_in_nutrient_limited_waters/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/dispersion_dilution_enhances_phytoplankton_blooms_in_nutrient_limited_waters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling physical from biological processes to assess the impact of viruses on a mesoscale algal bloom</title>
+      <link>/publication/decoupling_physical_from_biological_processes_to_assess_the_impact_of_viruses_on_a_mesoscale_algal_bloom/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/decoupling_physical_from_biological_processes_to_assess_the_impact_of_viruses_on_a_mesoscale_algal_bloom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

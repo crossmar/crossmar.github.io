@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on CROSSMAR</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on CROSSMAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A satellite-based Lagrangian view on phytoplankton dynamics</title>
+      <link>/publication/a_satellite-based_lagrangian_view_on_phytoplankton_dynamics__lehahn_arms_2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/a_satellite-based_lagrangian_view_on_phytoplankton_dynamics__lehahn_arms_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiling of host and virus during a coccolithophore bloom provides insights into the role of viral infection in promoting carbon export</title>
+      <link>/publication/expression_profiling_of_host_and_virus/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/expression_profiling_of_host_and_virus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispersion/dilution enhances phytoplankton blooms in nutrient-limited waters</title>
+      <link>/publication/dispersion_dilution_enhances_phytoplankton_blooms_in_nutrient_limited_waters/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/dispersion_dilution_enhances_phytoplankton_blooms_in_nutrient_limited_waters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoupling physical from biological processes to assess the impact of viruses on a mesoscale algal bloom</title>
+      <link>/publication/decoupling_physical_from_biological_processes_to_assess_the_impact_of_viruses_on_a_mesoscale_algal_bloom/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/decoupling_physical_from_biological_processes_to_assess_the_impact_of_viruses_on_a_mesoscale_algal_bloom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
