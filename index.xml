@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -25,6 +25,15 @@
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/person/shai_efrati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/person/koby_bar/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/person/koby_bar/</guid>
       <description></description>
     </item>
     
