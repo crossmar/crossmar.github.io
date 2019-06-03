@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/person/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/person/yoav_lehahn/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/person/yoav_lehahn/</guid>
       <description>Senior lecturer, University of Haifa</description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>/person/shai_efrati/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0300</pubDate>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/person/shai_efrati/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>/person/elad_topel/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/person/elad_topel/</guid>
       <description>Elad&amp;rsquo;s work is targeted to the development of high resolution remote-sensing methodologies, focusing on the Gulf of Aqaba&amp;rsquo;s ecosystem.</description>
@@ -41,17 +41,8 @@
     
     <item>
       <title></title>
-      <link>/person/misha_suchanov/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/person/misha_suchanov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/person/regina_lionheart/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/person/regina_lionheart/</guid>
       <description>Regina graduated from the University of Washington in 2017, with a Bachelor of Science in Oceanography and a minor in Applied Calculus and Statistics. She is now a master&amp;rsquo;s student at the University of Haifa in the Cross-Disciplinary Marine Systems (CROSSMAR) lab, under the direction of Dr. Yoav Lehahn. She is studying gradients across eddies and data integration across disciplines within oceanography.</description>
